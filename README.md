@@ -13,7 +13,8 @@ Tools Used :
 Figma : Used for creating the entire UI/UX design, including wireframes and prototypes.
 
 
-Check Out : https://www.figma.com/proto/x28jnYYTJjjf5dAAkJuKbL/Food-Order-App?node-id=93-111&node-type=CANVAS&t=iqf8qFpzrEj2gbOY-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=56%3A112
+Check Out : https://www.figma.com/proto/x28jnYYTJjjf5dAAkJuKbL?node-id=0-1&t=4r9O9n7glOhkWWxz-6
+
 
 
         
